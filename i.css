@@ -1,0 +1,53 @@
+h1{
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+#show{
+    font-size: 4rem;
+    margin: 0 0 0 30vw;
+}  
+#firstbutton{
+    color: rgb(255, 70, 70);
+    background-color: rgb(6, 78, 28);
+    font-size: 1.5rem;
+    padding: 2vh 7vw 2vh 7vw;
+    border-radius: 10px;
+    border: none;
+    margin: 4vh 0 0 16vw;
+}  
+.secondbutton{
+    color: rgb(197, 216, 129);
+    background-color: rgb(230, 252, 104);
+    font-size: 1.5rem;
+    padding: 2vh 7vw 2vh 7vw;
+    border-radius: 10px;
+    border: none;
+    margin: 2vh 0 0 19vw;
+} 
+.Thirdbutton{
+    color: rgb(197, 216, 129);
+    background-color: rgb(255, 61, 61);
+    font-size: 1.5rem;
+    padding: 2vh 7vw 2vh 7vw;
+    border-radius: 10px;
+    border: none;
+    margin: 2vh 0 0 19vw;
+} 
+#save{
+    font-size: 3rem;
+    position: relative;
+    left:60vw;
+    bottom: 11.6vh;
+}
+.p1{
+    font-size: 1.5rem;
+    position: relative;
+    left: 0px;
+}
+.savebtn{
+    background-color: cadetblue;
+    width: 20%;
+    height: 6vh;
+    border-radius: 10px;
+    margin:2vh 0 0 23vw ;
+}
